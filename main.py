@@ -1,8 +1,8 @@
-import Tkinter
+import tkinter as Tkinter
 import calendar
 import time
-import tkFont
-import ttk
+import tkinter.font as tkFont
+import tkinter.ttk as ttk
 
 
 def sequence(*functions):  # to run 2 or more functions on button click
